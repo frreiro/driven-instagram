@@ -145,7 +145,7 @@ body{
     
 }
 .stories{
-    margin-right: 13px;
+    margin-right: 11px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -195,6 +195,8 @@ body{
     position: absolute;
     right: 9px;
     align-items: center;
+    border-radius: 100%;
+    box-shadow: 0 0 3em black;
 }
 
 /* Fim caixa-stories */
