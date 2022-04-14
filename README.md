@@ -22,7 +22,7 @@ O projeto teve como requisitos conceitos básicos de HTML como o uso de:
 
 <p align="center">
   <img width="400" height="268" alt="print-globo.com" src="https://user-images.githubusercontent.com/98192816/163442941-254f1bf6-7a0e-4a19-813b-f15f5a721535.png">
-  <img width="500" height="335" alt="print-globo.com" src="https://user-images.githubusercontent.com/98192816/163442930-3d9c10eb-8b8f-4cb4-a787-ad1a7050c005.png">
+<!--   <img width="500" height="335" alt="print-globo.com" src="https://user-images.githubusercontent.com/98192816/163442930-3d9c10eb-8b8f-4cb4-a787-ad1a7050c005.png"> -->
 </p><br>
 
 ## 📱 Mobile
